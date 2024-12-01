@@ -1,0 +1,14 @@
+C:\Users\Oleksii\source\repos\HedgehogPopulationTestTask\HedgehogPopulationTestTask\bin\Debug\net8.0\HedgehogPopulationTestTask.exe
+C:\Users\Oleksii\source\repos\HedgehogPopulationTestTask\HedgehogPopulationTestTask\bin\Debug\net8.0\HedgehogPopulationTestTask.deps.json
+C:\Users\Oleksii\source\repos\HedgehogPopulationTestTask\HedgehogPopulationTestTask\bin\Debug\net8.0\HedgehogPopulationTestTask.runtimeconfig.json
+C:\Users\Oleksii\source\repos\HedgehogPopulationTestTask\HedgehogPopulationTestTask\bin\Debug\net8.0\HedgehogPopulationTestTask.dll
+C:\Users\Oleksii\source\repos\HedgehogPopulationTestTask\HedgehogPopulationTestTask\bin\Debug\net8.0\HedgehogPopulationTestTask.pdb
+C:\Users\Oleksii\source\repos\HedgehogPopulationTestTask\HedgehogPopulationTestTask\obj\Debug\net8.0\HedgehogPopulationTestTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleksii\source\repos\HedgehogPopulationTestTask\HedgehogPopulationTestTask\obj\Debug\net8.0\HedgehogPopulationTestTask.AssemblyInfoInputs.cache
+C:\Users\Oleksii\source\repos\HedgehogPopulationTestTask\HedgehogPopulationTestTask\obj\Debug\net8.0\HedgehogPopulationTestTask.AssemblyInfo.cs
+C:\Users\Oleksii\source\repos\HedgehogPopulationTestTask\HedgehogPopulationTestTask\obj\Debug\net8.0\HedgehogPopulationTestTask.csproj.CoreCompileInputs.cache
+C:\Users\Oleksii\source\repos\HedgehogPopulationTestTask\HedgehogPopulationTestTask\obj\Debug\net8.0\HedgehogPopulationTestTask.dll
+C:\Users\Oleksii\source\repos\HedgehogPopulationTestTask\HedgehogPopulationTestTask\obj\Debug\net8.0\refint\HedgehogPopulationTestTask.dll
+C:\Users\Oleksii\source\repos\HedgehogPopulationTestTask\HedgehogPopulationTestTask\obj\Debug\net8.0\HedgehogPopulationTestTask.pdb
+C:\Users\Oleksii\source\repos\HedgehogPopulationTestTask\HedgehogPopulationTestTask\obj\Debug\net8.0\HedgehogPopulationTestTask.genruntimeconfig.cache
+C:\Users\Oleksii\source\repos\HedgehogPopulationTestTask\HedgehogPopulationTestTask\obj\Debug\net8.0\ref\HedgehogPopulationTestTask.dll
